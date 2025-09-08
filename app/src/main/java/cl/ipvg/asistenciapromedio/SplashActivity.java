@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
 
-// Si tu minSdkVersion es 31+ y no usas la API SplashScreen nativa de Android 12,
+
 // esta anotación evita una advertencia del linter. Es opcional para minSdk < 31.
 @SuppressLint("CustomSplashScreen")
 public class SplashActivity extends AppCompatActivity {
