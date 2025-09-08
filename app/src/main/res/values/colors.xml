@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAprobadoFondo">#E8F5E9</color> <!-- Un verde claro -->
+    <color name="colorReprobadoFondo">#FFEBEE</color> <!-- Un rojo claro -->
+</resources>

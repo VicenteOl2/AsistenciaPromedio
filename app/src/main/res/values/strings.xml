@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsistenciaPromedio</string> {/* Nombre general de tu app */}
+    <string name="app_logo_description">Logo de la aplicación</string>
+    <string name="app_name_splash">Nombre de Mi Curso/App</string> {/* Lo que se mostrará en el Splash */}
+</resources>
